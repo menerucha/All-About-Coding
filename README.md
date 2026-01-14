@@ -1,4 +1,3 @@
-# ALL-ABOUT-CODING
 # 📘 All About Coding  
 **An Interactive Learning Platform with Integrated LeetCode Progress Tracking**
 
