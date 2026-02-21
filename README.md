@@ -60,7 +60,7 @@ The application follows a **Decoupled Client-Server Architecture**:
 
 ## 📂 Repository Structure
 
-<img width="845" height="421" alt="image" src="https://github.com/user-attachments/assets/ec006561-c3a3-4753-90e7-5f8331eec648" />
+<img width="345" height="221" alt="image" src="https://github.com/user-attachments/assets/ec006561-c3a3-4753-90e7-5f8331eec648" />
 
 ## ⚙️ Running Locally
 
